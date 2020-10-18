@@ -1,3 +1,4 @@
+![Logo](https://github.com/TEQST/TEQST/tree/main/images/Logo_landscape.png)
 # What is TEQST?
 
 TEQST (Tool to easily quench speechdata thirst) lets you create your own speechdata easily and intuitively. Upload a text, have others record it and download the data.
