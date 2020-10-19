@@ -7,11 +7,11 @@ TEQST (Tool to easily quench speechdata thirst) lets you create your own speechd
 
 ![Logo](images/Screenshot_folders.png)
 
-![Logo](images/Screenshot_phone_text.png) &emsp;&emsp;&emsp; ![Logo](images/Screenshot_phone_text_rec.png)
+![Logo](images/Screenshot_phone_text.png) &emsp;&emsp; ![Logo](images/Screenshot_phone_text_rec.png)
 
 ## The Source Code
 
-We keep our source code in two seperate repositories:
+We keep our source code in two seperate repositories. They are licensed under the GNU GPLv3 License:
 
-* Frontend: 
-* Backend: 
+* Frontend: https://github.com/sugeedarou/TEQST_Frontend
+* Backend: https://github.com/YAWNICK/TEQST_Backend
