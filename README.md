@@ -15,7 +15,7 @@ TEQST was created within a practical software engineering course (PSE) at the In
 
 ## Documentation
 
-A Dosumentation will be available here in a few days.
+The Frontend - once run - includes an English documentation on how to use TEQST
 
 ### Contact
 
