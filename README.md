@@ -4,8 +4,8 @@
 
 We keep our source code in two seperate repositories. They are licensed under the GNU GPLv3 License:
 
-* Frontend: https://github.com/sugeedarou/TEQST_Frontend
-* Backend: https://github.com/YAWNICK/TEQST_Backend
+* Frontend: https://github.com/TEQST/TEQST_Frontend
+* Backend: https://github.com/TEQST/TEQST_Backend
 
 ## What is TEQST?
 
